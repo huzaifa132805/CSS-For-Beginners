@@ -1,0 +1,14 @@
+body{
+	background-color: #1f2147;
+	color: white;
+	text-align: center;
+	border: 150px solid black;
+}
+
+p{
+	padding-left: 20%;
+	padding-top: 30%;
+	padding-right: 20%;
+	padding-bottom: 20%;
+}
+

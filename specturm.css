@@ -1,0 +1,49 @@
+table{
+	margin: auto;
+	width: 90%;
+	border-spacing: 10px;
+}
+ 
+
+h1{
+	font-family: 'Bangers', cursive;
+	text-align: center;
+}
+
+#one{
+	text-align: justify-all;
+	height: 400px;
+	width: 150px;
+	background-color: #04E762
+
+}
+
+#two{
+	text-align: center;
+	height: 400px;
+	width: 150px;
+	background-color: #F5B700
+
+
+}
+
+#three{
+	text-align: center;
+	height: 400px;
+	width: 150px;
+	background-color: #00A1E4
+}
+
+#four{
+	text-align: center;
+	height: 400px;
+	width: 150px;
+	background-color: #DC0073
+}
+
+#five{
+	text-align: center;
+	height: 400px;
+	width: 150px;
+	background-color: #89FC00
+}

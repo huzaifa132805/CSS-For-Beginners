@@ -1,0 +1,15 @@
+/*you can pass some strings values as well as they have some default fonts*/
+
+
+h1{
+	font-family: "Arial";
+}
+
+p{
+	font-family: 'Bangers', cursive;
+}
+
+h1{
+	text-align: center;
+	font-family: 'Bangers', cursive;
+}

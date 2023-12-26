@@ -1,0 +1,19 @@
+/*selected tag{
+	property value;
+}*/
+
+h1{
+	color: red;
+}
+
+li{
+	color: rgb(109, 153, 189); /*not common use to create a very quick website*/
+}
+
+p{
+	color: #2a2769; /*most common hexa decimal */
+}
+
+h4{
+	color: rgba(229, 107, 250,1); /*this is use to transparent the code*/
+}
